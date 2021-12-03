@@ -26,11 +26,11 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 	h4 {
-		margin: 5;
+		margin: 1;
 		padding: 0;
 		border: 0;
 		font-size: 50%;
-		font-family:monospace;
+		font-family:'Arial';
 		vertical-align: baseline;
 	}
 
@@ -1315,7 +1315,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/horseshoe-bend.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
